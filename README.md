@@ -1,2 +1,2 @@
-# IndySCCA
-IndySCCA.org website
+# IndySCCA Website Project
+IndySCCA.org Website Project
